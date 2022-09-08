@@ -22,4 +22,5 @@ After that put your discord bot token in the config.json
 python3 .\spotifydiscordbot.py
 ```
 
-## Enjoy your bot and discover your friend's music taste
+## Website Version
+http://34.78.181.45/spotifriends/spotifriends.html
