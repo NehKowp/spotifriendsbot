@@ -1,8 +1,7 @@
 # spotifriendsbot
 A discord bot to compare your music taste with your friend
 
-pip install discord.py // if you don't have
-pip3 install requests
+pip3 install -r requirements.txt
 
 put your discord bot token in the config.json 
 
