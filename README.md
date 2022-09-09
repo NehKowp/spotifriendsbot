@@ -22,5 +22,9 @@ After that put your discord bot token in the config.json
 python3 .\spotifydiscordbot.py
 ```
 
+## In Discord
+![image](https://user-images.githubusercontent.com/90217593/189455143-8f2c5615-41f3-4430-a9ba-3471dd84d4d5.png)
+
+
 ## Website Version
 http://34.78.181.45/spotifriends/spotifriends.html
